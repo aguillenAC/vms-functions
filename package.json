@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@netlify/functions": "^1.6.0"
+  },
+  "name": "vms-functions",
+  "version": "1.0.0",
+  "description": "Version management system related functions that connect to firebase",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguillenAC/vms-functions.git"
+  },
+  "keywords": [
+    "acity",
+    "vms"
+  ],
+  "author": "aguillen@acity.com.pe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguillenAC/vms-functions/issues"
+  },
+  "homepage": "https://github.com/aguillenAC/vms-functions#readme"
+}
